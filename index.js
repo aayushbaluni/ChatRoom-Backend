@@ -6,7 +6,7 @@ const cors=require('cors')
 
 const router=require("./router");
 
-const PORT=process.env.PORT||8000;
+const PORT=process.env.PORT||5000;
 
 
 
